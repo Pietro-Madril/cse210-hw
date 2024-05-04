@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Hello Prep3 World!");
-        // //User defined guess loop - turn off the comments deleting the "//" in the lines 9 to 11
+        // //User defined guess loop - turn off the comments deleting the "//" in the lines 9 to 11 and add "//" in lines 13 and 14
         // Console.WriteLine("What is the secret number?");
         // string yourNumber = Console.ReadLine();
         // int Number = int.Parse(yourNumber);
