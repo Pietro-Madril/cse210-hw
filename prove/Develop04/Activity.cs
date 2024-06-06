@@ -7,7 +7,6 @@ public class Activity
     protected int _duration;
     public Activity(string name, string description)
     {
-        //initialize _name, _description, _duration
         _name = name;
         _description = description;
         _duration = 0;
